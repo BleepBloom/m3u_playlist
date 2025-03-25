@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="channel1" tvg-name="Root Sports" tvg-logo="https://raw.githubusercontent.com/BleepBloom/m3u_playlist/d09a893d1c3d68bafc80ddef7935be51f4a2ddad/root.png?token=GHSAT0AAAAAADBCRYPODZO744LEEUZEZNRKZ7CESJQ" group-title="Sports",Channel 1
+https://dokko1new.koskoros.ru/dokko1/premium920/mono.m3u8
+#EXTINF:-1 tvg-id="channel2" tvg-name="Golf Channel" tvg-logo="https://raw.githubusercontent.com/BleepBloom/m3u_playlist/refs/heads/main/golf_channel.png?token=GHSAT0AAAAAADBCRYPPDOP4ZIKMGEWJPRPQZ7CFDWQ" group-title="Sports",Channel 2
+https://aavee3eer7us7x.thintheory.net/hls/cf7642d45540540c-0a7a388bbf5f819867307049038f030db2fc64d91c5b30db7f10e8c8a0424c86/live.m3u8
