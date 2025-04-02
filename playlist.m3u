@@ -1,16 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="channel1" tvg-name="Custom Channel 1" tvg-logo="" group-title="Live TV", Custom Channel 1
-http://doubleclicktv.live:80/70376812/52663544/855
-
-#EXTINF:-1 tvg-id="channel2" tvg-name="Custom Channel 2" tvg-logo="" group-title="Live TV", Custom Channel 2
-http://supersonictv.live:8080/live/Derrick/Hitman50$/77576.ts
-
-#EXTINF:-1 tvg-id="channel3" tvg-name="Custom Channel 3" tvg-logo="" group-title="Live TV", Custom Channel 3
-http://doubleclicktv.live:80/70376812/52663544/854
-
-#EXTINF:-1 tvg-id="channel4" tvg-name="Custom Channel 4" tvg-logo="" group-title="Live TV", Custom Channel 4
-http://doubleclicktv.live:80/70376812/52663544/853
-
-#EXTINF:-1 tvg-id="channel5" tvg-name="Custom Channel 5" tvg-logo="" group-title="Live TV", Custom Channel 5
-http://doubleclicktv.live:80/70376812/52663544/286886
+#EXTINF:-1 tvg-id="" tvg-name="US Root Sports Network Backup NO_1" group-title="Sports", US Root Sports Network Backup NO_1  
+http://cord-cutter.net:8080/25464931/30585186/85232?checkedby:alliptvlinks.com
