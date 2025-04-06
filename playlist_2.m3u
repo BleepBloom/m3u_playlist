@@ -25,7 +25,7 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7344/index.m3u8
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/508250.ts
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 4" group-title="Sports", UK Sky Golf 4  
 http://fortv.cc:8080/live/54435673/54435673/35240.ts
-EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", US ESPN  
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", US ESPN  
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-id="ABC.(KOMO).Seattle,.WA.us" tvg-name="KOMO 4_1" group-title="Local News", US KOMO 4_1  
 http://pro.ipcover.lol:8080/live/Cyril7153927C/7BxkUSyK8mjk/329015.ts
