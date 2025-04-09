@@ -1,21 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest NO_1" group-title="Sports", US Root Sports Northwest NO_1  
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest 1" group-title="Sports", Root Sports Northwest 1  
 http://pro.ipcover.lol:8080/live/Cyril7153927C/7BxkUSyK8mjk/328936.ts
-#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest NO_2" group-title="Sports", US Root Sports Northwest NO_2  
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest 2" group-title="Sports", Root Sports Northwest 2  
 http://hdhd.tk:80/live/coachshaneburk@gmail.com/PhGeyuV99/50238.ts
-#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest NO_3" group-title="Sports", US Root Sports Northwest NO_3  
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest 3" group-title="Sports", Root Sports Northwest 3  
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1613
-#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest NO_4" group-title="Sports", US Root Sports Northwest NO_4  
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest 4" group-title="Sports", Root Sports Northwest 4  
 http://iptv.maxlacress.com:80/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139181.ts
-#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest NO_5" group-title="Sports", US Root Sports Northwest NO_5  
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest 5" group-title="Sports", Root Sports Northwest 5  
 http://sapphireapp.xyz:8080/live/josephharley/7566612703/48334.ts
-#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest NO_6" group-title="Sports", US Root Sports Northwest NO_6  
+#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest 6" group-title="Sports", Root Sports Northwest 6  
 http://wanicelife.com:8880/live/kg14m2n04290002/79831148/30062.ts
-#EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest NO_7 (MLB TV)" group-title="Sports", US Root Sports Northwest NO_7  
+#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="Root Sports Northwest 7 (MLB TV)" group-title="Sports", MLB.TV Seattle Mariners FHD
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/48179.ts
+#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="Root Sports Northwest 8 (MLB TV)" group-title="Sports", MLB.TV Seattle Mariners  
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/683060.ts
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 1" group-title="Sports", US Golf Channel 1  
+#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="Root Sports Northwest 9 (MLB TV)" group-title="Sports", MLB.TV Seattle Mariners  
+http://1tv41.icu:8080/live/Chad@giles2930/Chadgiles@2930/227072.ts
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 1" group-title="Sports", Golf Channel 1  
 http://hdhd.tk:80/live/b0006/b0006/39189.ts
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 2" group-title="Sports", US Golf Channel 2  
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 2" group-title="Sports", Golf Channel 2  
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/418180.ts
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 1" group-title="Sports", UK Sky Golf 1  
 https://a1xs.vip/2000009
@@ -25,43 +29,47 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7344/index.m3u8
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/508250.ts
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 4" group-title="Sports", UK Sky Golf 4  
 http://fortv.cc:8080/live/54435673/54435673/35240.ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", US ESPN  
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", US ESPN  
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
 http://tvmate.icu:8080/vNay0H/219352/14197?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", US ESPN  
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
 http://cord-cutter.net:8080/live/gPe4Z1/132932/14197.ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", US ESPN  
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
 http://megaott.live:8080/live/vh5h9Pu9Sghj/2nktgerR6NwZ/67552.ts
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" group-title="Sports", US ESPN 2 
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/15951.ts
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" group-title="Sports", ESPN 2 
 http://cord-cutter.net:8080/live/gPe4Z1/132932/14197.ts
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" group-title="Sports", US ESPN 2 
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" group-title="Sports", ESPN 2 
 http://megaott.live:8080/live/vh5h9Pu9Sghj/2nktgerR6NwZ/135224.ts
-#EXTINF:-1 tvg-id="ABC.(KOMO).Seattle,.WA.us" tvg-name="KOMO 4_1" group-title="Local News", US KOMO 4_1  
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" group-title="Sports", ESPN 2 
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/15950.ts
+#EXTINF:-1 tvg-id="ABC.(KOMO).Seattle,.WA.us" tvg-name="KOMO 4_1" group-title="Local News", KOMO 4 1  
 http://pro.ipcover.lol:8080/live/Cyril7153927C/7BxkUSyK8mjk/329015.ts
-#EXTINF:-1 tvg-id="ABC.(KOMO).Seattle,.WA.us" tvg-name="KOMO 4_2" group-title="Local News", US KOMO 4_2  
+#EXTINF:-1 tvg-id="ABC.(KOMO).Seattle,.WA.us" tvg-name="KOMO 4_2" group-title="Local News", KOMO 4 2  
 http://kstv.us:8080/live/Alberth57587/7778524095/49140.ts
-#EXTINF:-1 tvg-id="ABC.(KOMO).Seattle,.WA.us" tvg-name="KOMO 4_3" group-title="Local News", US KOMO 4_3  
+#EXTINF:-1 tvg-id="ABC.(KOMO).Seattle,.WA.us" tvg-name="KOMO 4_3" group-title="Local News", KOMO 4 3  
 http://user.scalecdn.co:8080/live/26725074/92867131/2668.m3u8
-#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_1" group-title="Local News", US KING 5_1
+#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_1" group-title="Local News", KING 5 1
 http://user.scalecdn.co:8080/live/26725074/92867131/2668.m3u8
-#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_2" group-title="Local News", US KING 5_2    
+#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_2" group-title="Local News", KING 5 2    
 https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
-#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_3" group-title="Local News", US KING 5_3    
+#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_3" group-title="Local News", KING 5 3    
 http://hdhd.tk:80/live/coachshaneburk@gmail.com/PhGeyuV99/21837.ts
-#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_4" group-title="Local News", US KING 5_4    
+#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_4" group-title="Local News", KING 5 4    
 https://livetv-fa.tubi.video/king/live.m3u8
-#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_1" group-title="Local News", US KIRO 7_1  
+#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_1" group-title="Local News", KIRO 7 1  
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_2" group-title="Local News", US KIRO 7_2  
+#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_2" group-title="Local News", KIRO 7 2  
 https://apollo.production-public.tubi.io/live/ac-kiro.m3u8
-#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_3" group-title="Local News", US KIRO 7_3  
+#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_3" group-title="Local News", KIRO 7 3  
 http://pro.ipcover.lol:8080/live/Cyril7153927C/7BxkUSyK8mjk/329014.ts
-#EXTINF:-1 tvg-id="FOX.(KCPQ).Tacoma,.WA.us" tvg-name="FOX 13" group-title="Local News", US FOX 13  
+#EXTINF:-1 tvg-id="FOX.(KCPQ).Tacoma,.WA.us" tvg-name="FOX 13" group-title="Local News", FOX 13  
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/420096.ts
-#EXTINF:-1 tvg-id="FOX.(KCPQ).Tacoma,.WA.us" tvg-name="FOX 13" group-title="Local News", US FOX 13  
+#EXTINF:-1 tvg-id="FOX.(KCPQ).Tacoma,.WA.us" tvg-name="FOX 13" group-title="Local News", FOX 13  
 http://fortv.cc:8080/live/54435673/54435673/120829.ts
-#EXTINF:-1 tvg-id="FOX.(KZJO-DT2).Seattle,.WA.us" tvg-name="FOX 13+" group-title="Local News", US FOX 13+  
+#EXTINF:-1 tvg-id="FOX.(KZJO-DT2).Seattle,.WA.us" tvg-name="FOX 13+" group-title="Local News", FOX 13+  
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/420096.ts
-#EXTINF:-1 tvg-id="VICE.us" tvg-name="Viceland" group-title="Entertainment", US FOX 13  
+#EXTINF:-1 tvg-id="VICE.us" tvg-name="Viceland" group-title="Entertainment", Viceland  
 http://wanicelife.com:8880/live/kg14m2n04290002/79831148/3153.ts
