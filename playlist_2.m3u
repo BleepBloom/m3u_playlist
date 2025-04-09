@@ -23,10 +23,18 @@ http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/683060.ts
 http://1tv41.icu:8080/live/Chad@giles2930/Chadgiles@2930/227072.ts
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" group-title="Sports", MLB.TV MLB Network  
 http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/22507.ts
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 1" group-title="Sports", Golf Channel 1  
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 1" group-title="Sports", Golf Channel 1 FHD  
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/22500.ts
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 2" group-title="Sports", Golf Channel 2 FHD  
+http://vocotv.pro:80/live/bruce111/bruce111/897.ts
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 3" group-title="Sports", Golf Channel 3 FHD  
+http://vocotv.pro:80/live/bruce111/bruce111/268965.ts
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 4" group-title="Sports", Golf Channel 4  
 http://hdhd.tk:80/live/b0006/b0006/39189.ts
-#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 2" group-title="Sports", Golf Channel 2  
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 5" group-title="Sports", Golf Channel 5  
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/418180.ts
+#EXTINF:-1 tvg-id="PGA Tour HD" tvg-name="PGA Tour HD" group-title="Sports", PGA Tour HD  
+http://vocotv.pro:80/live/bruce111/bruce111/623469.ts
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 1" group-title="Sports", UK Sky Golf 1  
 https://a1xs.vip/2000009
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 2" group-title="Sports", UK Sky Golf 2  
@@ -35,8 +43,10 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7344/index.m3u8
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/508250.ts
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 4" group-title="Sports", UK Sky Golf 4  
 http://fortv.cc:8080/live/54435673/54435673/35240.ts
-#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 5" group-title="Sports", UK Sky Golf 5  
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 5" group-title="Sports", UK Sky Golf 5 FHD  
 http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/47867.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
+http://tvmate.icu:8080/live/60023165/94429242/9802.ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
@@ -67,11 +77,15 @@ https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 http://hdhd.tk:80/live/coachshaneburk@gmail.com/PhGeyuV99/21837.ts
 #EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_4" group-title="Local News", KING 5 4    
 https://livetv-fa.tubi.video/king/live.m3u8
+#EXTINF:-1 tvg-id="NBC.(KING).Seattle,.WA.us" tvg-name="KING 5_5 60FPS" group-title="Local News", KING 5 5 60FPS    
+http://vocotv.pro:80/live/bruce111/bruce111/1757.ts
 #EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_1" group-title="Local News", KIRO 7 1  
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_2" group-title="Local News", KIRO 7 2  
-https://apollo.production-public.tubi.io/live/ac-kiro.m3u8
+#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_2" group-title="Local News", KIRO 7 2 FHD  
+http://vocotv.pro:80/live/bruce111/bruce111/274520.ts
 #EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_3" group-title="Local News", KIRO 7 3  
+https://apollo.production-public.tubi.io/live/ac-kiro.m3u8
+#EXTINF:-1 tvg-id="CBS.(KIRO).Seattle,.WA.us" tvg-name="KIRO 7_4" group-title="Local News", KIRO 7 4  
 http://pro.ipcover.lol:8080/live/Cyril7153927C/7BxkUSyK8mjk/329014.ts
 #EXTINF:-1 tvg-id="FOX.(KCPQ).Tacoma,.WA.us" tvg-name="FOX 13" group-title="Local News", FOX 13  
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/420096.ts
@@ -81,3 +95,29 @@ http://fortv.cc:8080/live/54435673/54435673/120829.ts
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/420096.ts
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="Viceland" group-title="Entertainment", Viceland  
 http://wanicelife.com:8880/live/kg14m2n04290002/79831148/3153.ts
+#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History Channel" group-title="Entertainment", History Channel  
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/15912.ts
+#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History Channel" group-title="Entertainment", History Channel  
+http://vocotv.pro:80/live/bruce111/bruce111/434.ts
+#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History Channel" group-title="Entertainment", History Channel  
+http://vocotv.pro:80/live/bruce111/bruce111/268951.ts
+#EXTINF:-1 tvg-id="plex.tv.Top.Gear.plex" tvg-name="Top Gear" group-title="Entertainment", Top Gear  
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/15912.ts
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="Top Gear" group-title="News", CNN  
+http://vocotv.pro:80/live/bruce111/bruce111/1041.ts
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="Top Gear" group-title="News", CNN  
+http://vocotv.pro:80/live/bruce111/bruce111/268995.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery" group-title="Entertainment", Discovery  
+http://vocotv.pro:80/live/bruce111/bruce111/268988.ts
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central" group-title="Entertainment", Comedy Central  
+http://vocotv.pro:80/live/bruce111/bruce111/268993.ts
+#EXTINF:-1 tvg-id="4K Beach Bonfire" tvg-name="4K Beach Bonfire" group-title="Entertainment", 4K Beach Bonfire  
+http://vocotv.pro:80/live/bruce111/bruce111/623480.ts
+#EXTINF:-1 tvg-id="4K Lakeside Bonfire" tvg-name="4K Lakeside Bonfire" group-title="Entertainment", 4K Lakeside Bonfire  
+http://vocotv.pro:80/live/bruce111/bruce111/623479.ts
+#EXTINF:-1 tvg-id="4K Ocean" tvg-name="4K Ocean" group-title="Entertainment", 4K Ocean  
+http://vocotv.pro:80/live/bruce111/bruce111/623486.ts
+#EXTINF:-1 tvg-id="4K Waterfall" tvg-name="4K Waterfall" group-title="Entertainment", 4K Waterfall  
+http://vocotv.pro:80/live/bruce111/bruce111/623483.ts
+#EXTINF:-1 tvg-id="4K Island" tvg-name="4K Island" group-title="Entertainment", 4K Island  
+http://vocotv.pro:80/live/bruce111/bruce111/623484.ts
