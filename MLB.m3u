@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB Big Inning" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRg0dvpNveneYcl9MMecNJTyWGSl2_Fsm9_Q&s" group-title="USA | MLB Teams",MLB Big Inning
+http://vocotv.pro:80/live/bruce111/bruce111/715294.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Los Angeles Angels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Los_Angeles_Angels_of_Anaheim.svg/1200px-Los_Angeles_Angels_of_Anaheim.svg.png" group-title="USA | MLB Teams",MLB | Los Angeles Angels
+http://vocotv.pro:80/live/bruce111/bruce111/298769.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Chicago Cubs" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fchc.png" group-title="USA | MLB Teams",MLB | Chicago Cubs
+http://vocotv.pro:80/live/bruce111/bruce111/298768.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Arizona Diamondbacks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Arizona_Diamondbacks_logo_teal.svg/1200px-Arizona_Diamondbacks_logo_teal.svg.png" group-title="USA | MLB Teams",MLB | Arizona Diamondbacks
+http://vocotv.pro:80/live/bruce111/bruce111/298767.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Baltimore Orioles" tvg-logo="https://www.prospects1500.com/wp-content/uploads/2016/12/Orioles-Logo-1.png" group-title="USA | MLB Teams",MLB | Baltimore Orioles
+http://vocotv.pro:80/live/bruce111/bruce111/298766.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Boston Red Sox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/RedSoxPrimary_HangingSocks.svg" group-title="USA | MLB Teams",MLB | Boston Red Sox
+http://vocotv.pro:80/live/bruce111/bruce111/298765.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Chicago White Sox" tvg-logo="http://xplatinmedia.com:8080/images/3d5ca880102f7a4740bfd101fe2c5d84.png" group-title="USA | MLB Teams",MLB | Chicago White Sox
+http://vocotv.pro:80/live/bruce111/bruce111/298764.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Cleveland Guardians" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Cleveland_Guardians_cap_logo.svg" group-title="USA | MLB Teams",MLB | Cleveland Guardians
+http://vocotv.pro:80/live/bruce111/bruce111/298763.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Colorado Rockies" tvg-logo="https://i.pinimg.com/originals/bc/0d/12/bc0d12870b0ff16e992cec7d7d590407.png" group-title="USA | MLB Teams",MLB | Colorado Rockies
+http://vocotv.pro:80/live/bruce111/bruce111/298762.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Washington Nationals" tvg-logo="http://xplatinmedia.com:8080/images/7f0b3c1513dee9d1c66e344b8362f290.png" group-title="USA | MLB Teams",MLB | Washington Nationals
+http://vocotv.pro:80/live/bruce111/bruce111/298761.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Detroit Tigers" tvg-logo="https://vafloc01.s3.amazonaws.com/WBStatic/site1101001/img/design-2019/branding/h1-tigers.png" group-title="USA | MLB Teams",MLB | Detroit Tigers
+http://vocotv.pro:80/live/bruce111/bruce111/298760.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Miami Marlins" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Marlins_team_logo.svg/1200px-Marlins_team_logo.svg.png" group-title="USA | MLB Teams",MLB | Miami Marlins
+http://vocotv.pro:80/live/bruce111/bruce111/298759.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Houston Astros" tvg-logo="http://xplatinmedia.com:8080/images/e58b86e8f2e69afc36af95022ae1cadf.png" group-title="USA | MLB Teams",MLB | Houston Astros
+http://vocotv.pro:80/live/bruce111/bruce111/298758.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Los Angeles Dodgers" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Flad.png" group-title="USA | MLB Teams",MLB | Los Angeles Dodgers
+http://vocotv.pro:80/live/bruce111/bruce111/298757.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | New York Mets" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1200px-New_York_Mets.svg.png" group-title="USA | MLB Teams",MLB | New York Mets
+http://vocotv.pro:80/live/bruce111/bruce111/298756.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Minnesota Twins" tvg-logo="http://xplatinmedia.com:8080/images/33b473164529b8f574fbff25259d1586.png" group-title="USA | MLB Teams",MLB | Minnesota Twins
+http://vocotv.pro:80/live/bruce111/bruce111/298755.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | New York Yankees" tvg-logo="http://xplatinmedia.com:8080/images/6692c36b004e9807a16752abd1ad977c.png" group-title="USA | MLB Teams",MLB | New York Yankees
+http://vocotv.pro:80/live/bruce111/bruce111/298754.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Oakland Athletics" tvg-logo="https://i.pinimg.com/originals/e8/e5/83/e8e58326180cf9ee380b3e45502e26a4.png" group-title="USA | MLB Teams",MLB | Oakland Athletics
+http://vocotv.pro:80/live/bruce111/bruce111/298753.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Pittsburgh Pirates" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/pit.png" group-title="USA | MLB Teams",MLB | Pittsburgh Pirates
+http://vocotv.pro:80/live/bruce111/bruce111/298752.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | San Diego Padres" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fsd.png" group-title="USA | MLB Teams",MLB | San Diego Padres
+http://vocotv.pro:80/live/bruce111/bruce111/298751.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | San Francisco Giants" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/San_Francisco_Giants_Logo.svg/1200px-San_Francisco_Giants_Logo.svg.png" group-title="USA | MLB Teams",MLB | San Francisco Giants
+http://vocotv.pro:80/live/bruce111/bruce111/298750.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Seattle Mariners" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/1200px-Seattle_Mariners_logo_%28low_res%29.svg.png" group-title="USA | MLB Teams",MLB | Seattle Mariners
+http://vocotv.pro:80/live/bruce111/bruce111/298749.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | St. Louis Cardinals" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/1200px-St._Louis_Cardinals_logo.svg.png" group-title="USA | MLB Teams",MLB | St. Louis Cardinals
+http://vocotv.pro:80/live/bruce111/bruce111/298748.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Tampa Bay Rays" tvg-logo="https://www.beisbolmlb.com/wp-content/uploads/rays-1.png" group-title="USA | MLB Teams",MLB | Tampa Bay Rays
+http://vocotv.pro:80/live/bruce111/bruce111/298747.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Texas Rangers" tvg-logo="http://xplatinmedia.com:8080/images/7cc5e37ba7bc05df8ad49553bc9b6cc8.png" group-title="USA | MLB Teams",MLB | Texas Rangers
+http://vocotv.pro:80/live/bruce111/bruce111/298746.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Toronto Blue Jays" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Toronto_Blue_Jays_logo.svg" group-title="USA | MLB Teams",MLB | Toronto Blue Jays
+http://vocotv.pro:80/live/bruce111/bruce111/298745.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Cincinnati Reds" tvg-logo="http://xplatinmedia.com:8080/images/9680ee08b26cabd5d242d10d8a8516ed.png" group-title="USA | MLB Teams",MLB | Cincinnati Reds
+http://vocotv.pro:80/live/bruce111/bruce111/298744.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Philadelphia Phillies" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fphi.png" group-title="USA | MLB Teams",MLB | Philadelphia Phillies
+http://vocotv.pro:80/live/bruce111/bruce111/298743.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Kansas City Royals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Kansas_City_Royals.svg" group-title="USA | MLB Teams",MLB | Kansas City Royals
+http://vocotv.pro:80/live/bruce111/bruce111/298742.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Milwaukee Brewers" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/1200px-Milwaukee_Brewers_logo.svg.png" group-title="USA | MLB Teams",MLB | Milwaukee Brewers
+http://vocotv.pro:80/live/bruce111/bruce111/298741.m3u8
+#EXTINF:-1 tvg-id="{XUI_ID}" tvg-name="MLB | Atlanta Braves" tvg-logo="https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fmlb%2F500%2Fatl.png" group-title="USA | MLB Teams",MLB | Atlanta Braves
+http://vocotv.pro:80/live/bruce111/bruce111/298740.m3u8
+#EXTINF:-1 tvg-id="89592" tvg-name="MLB 01 :New York Yankees vs Detroit Tigers @ Apr 8 1:10 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 01 :New York Yankees vs Detroit Tigers @ Apr 8 1:10 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2508.m3u8
+#EXTINF:-1 tvg-id="89593" tvg-name="MLB 02 :Chicago White Sox vs Cleveland Guardians @ Apr 8 4:10 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 02 :Chicago White Sox vs Cleveland Guardians @ Apr 8 4:10 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2507.m3u8
+#EXTINF:-1 tvg-id="89594" tvg-name="MLB 03 :Miami Marlins vs New York Mets @ Apr 8 4:10 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 03 :Miami Marlins vs New York Mets @ Apr 8 4:10 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2506.m3u8
+#EXTINF:-1 tvg-id="89595" tvg-name="MLB 04 :St. Louis Cardinals vs Pittsburgh Pirates @ Apr 8 6:40 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 04 :St. Louis Cardinals vs Pittsburgh Pirates @ Apr 8 6:40 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2505.m3u8
+#EXTINF:-1 tvg-id="89596" tvg-name="MLB 05 :Los Angeles Dodgers vs Washington Nationals @ Apr 8 6:45 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 05 :Los Angeles Dodgers vs Washington Nationals @ Apr 8 6:45 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2504.m3u8
+#EXTINF:-1 tvg-id="89597" tvg-name="MLB 06 :Toronto Blue Jays vs Boston Red Sox @ Apr 8 6:45 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 06 :Toronto Blue Jays vs Boston Red Sox @ Apr 8 6:45 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2503.m3u8
+#EXTINF:-1 tvg-id="89598" tvg-name="MLB 07 :Los Angeles Angels vs Tampa Bay Rays @ Apr 8 7:05 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 07 :Los Angeles Angels vs Tampa Bay Rays @ Apr 8 7:05 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2502.m3u8
+#EXTINF:-1 tvg-id="89599" tvg-name="MLB 08 :Philadelphia Phillies vs Atlanta Braves @ Apr 8 7:15 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 08 :Philadelphia Phillies vs Atlanta Braves @ Apr 8 7:15 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2501.m3u8
+#EXTINF:-1 tvg-id="89600" tvg-name="MLB 09 :Texas Rangers vs Chicago Cubs @ Apr 8 7:40 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 09 :Texas Rangers vs Chicago Cubs @ Apr 8 7:40 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2500.m3u8
+#EXTINF:-1 tvg-id="89601" tvg-name="MLB 10 :Minnesota Twins vs Kansas City Royals @ Apr 8 7:40 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 10 :Minnesota Twins vs Kansas City Royals @ Apr 8 7:40 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2499.m3u8
+#EXTINF:-1 tvg-id="89602" tvg-name="MLB 11 :Milwaukee Brewers vs Colorado Rockies @ Apr 8 8:40 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 11 :Milwaukee Brewers vs Colorado Rockies @ Apr 8 8:40 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2498.m3u8
+#EXTINF:-1 tvg-id="89603" tvg-name="MLB 12 :Baltimore Orioles vs Arizona Diamondbacks @ Apr 8 9:40 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 12 :Baltimore Orioles vs Arizona Diamondbacks @ Apr 8 9:40 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2497.m3u8
+#EXTINF:-1 tvg-id="89604" tvg-name="MLB 13 :Houston Astros vs Seattle Mariners @ Apr 8 9:40 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 13 :Houston Astros vs Seattle Mariners @ Apr 8 9:40 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2496.m3u8
+#EXTINF:-1 tvg-id="89605" tvg-name="MLB 14 :Cincinnati Reds vs San Francisco Giants @ Apr 8 9:45 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 14 :Cincinnati Reds vs San Francisco Giants @ Apr 8 9:45 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2495.m3u8
+#EXTINF:-1 tvg-id="89606" tvg-name="MLB 15 :San Diego Padres vs Athletics @ Apr 8 10:05 PM" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 15 :San Diego Padres vs Athletics @ Apr 8 10:05 PM
+http://vocotv.pro:80/live/bruce111/bruce111/2494.m3u8
+#EXTINF:-1 tvg-id="89607" tvg-name="MLB 16 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 16 :
+http://vocotv.pro:80/live/bruce111/bruce111/2493.m3u8
+#EXTINF:-1 tvg-id="89608" tvg-name="MLB 17 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 17 :
+http://vocotv.pro:80/live/bruce111/bruce111/2492.m3u8
+#EXTINF:-1 tvg-id="89609" tvg-name="MLB 18 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 18 :
+http://vocotv.pro:80/live/bruce111/bruce111/2491.m3u8
+#EXTINF:-1 tvg-id="89610" tvg-name="MLB 19 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 19 :
+http://vocotv.pro:80/live/bruce111/bruce111/2490.m3u8
+#EXTINF:-1 tvg-id="89611" tvg-name="MLB 20 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 20 :
+http://vocotv.pro:80/live/bruce111/bruce111/2489.m3u8
+#EXTINF:-1 tvg-id="89612" tvg-name="MLB 21 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 21 :
+http://vocotv.pro:80/live/bruce111/bruce111/2488.m3u8
+#EXTINF:-1 tvg-id="89613" tvg-name="MLB 22 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 22 :
+http://vocotv.pro:80/live/bruce111/bruce111/2487.m3u8
+#EXTINF:-1 tvg-id="89614" tvg-name="MLB 23 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 23 :
+http://vocotv.pro:80/live/bruce111/bruce111/2486.m3u8
+#EXTINF:-1 tvg-id="89615" tvg-name="MLB 24 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 24 :
+http://vocotv.pro:80/live/bruce111/bruce111/2485.m3u8
+#EXTINF:-1 tvg-id="89616" tvg-name="MLB 25 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 25 :
+http://vocotv.pro:80/live/bruce111/bruce111/2484.m3u8
+#EXTINF:-1 tvg-id="89617" tvg-name="MLB 26 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 26 :
+http://vocotv.pro:80/live/bruce111/bruce111/2483.m3u8
+#EXTINF:-1 tvg-id="89618" tvg-name="MLB 27 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 27 :
+http://vocotv.pro:80/live/bruce111/bruce111/2482.m3u8
+#EXTINF:-1 tvg-id="89619" tvg-name="MLB 28 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 28 :
+http://vocotv.pro:80/live/bruce111/bruce111/2481.m3u8
+#EXTINF:-1 tvg-id="89620" tvg-name="MLB 29 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 29 :
+http://vocotv.pro:80/live/bruce111/bruce111/2480.m3u8
+#EXTINF:-1 tvg-id="89621" tvg-name="MLB 30 :" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="USA | MLB",MLB 30 :
+http://vocotv.pro:80/live/bruce111/bruce111/2479.m3u8
