@@ -11,12 +11,18 @@ http://iptv.maxlacress.com:80/live/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/139181.ts
 http://sapphireapp.xyz:8080/live/josephharley/7566612703/48334.ts
 #EXTINF:-1 tvg-id="Root.Sports.Northwest.us" tvg-name="Root Sports Northwest 6" group-title="Sports", Root Sports Northwest 6  
 http://wanicelife.com:8880/live/kg14m2n04290002/79831148/30062.ts
-#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="Root Sports Northwest 7 (MLB TV)" group-title="Sports", MLB.TV Seattle Mariners FHD
+#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="MLB.TV Seattle Mariners" group-title="Sports", MLB.TV Seattle Mariners FHD
 http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/48179.ts
-#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="Root Sports Northwest 8 (MLB TV)" group-title="Sports", MLB.TV Seattle Mariners  
+#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="MLB.TV Seattle Mariners" group-title="Sports", MLB.TV Seattle Mariners FHD  
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/47508.ts
+#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="MLB.TV Seattle Mariners" group-title="Sports", MLB.TV Seattle Mariners FHD  
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/48187.ts
+#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="MLB.TV Seattle Mariners" group-title="Sports", MLB.TV Seattle Mariners  
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/683060.ts
-#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="Root Sports Northwest 9 (MLB TV)" group-title="Sports", MLB.TV Seattle Mariners  
+#EXTINF:-1 tvg-id="MLB-SeattleMariners" tvg-name="MLB.TV Seattle Mariners" group-title="Sports", MLB.TV Seattle Mariners  
 http://1tv41.icu:8080/live/Chad@giles2930/Chadgiles@2930/227072.ts
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-name="MLB Network" group-title="Sports", MLB.TV MLB Network  
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/22507.ts
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 1" group-title="Sports", Golf Channel 1  
 http://hdhd.tk:80/live/b0006/b0006/39189.ts
 #EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel 2" group-title="Sports", Golf Channel 2  
@@ -29,6 +35,8 @@ http://38b891c9.rossteleccom.net/iptv/SQNLRPBE7FFE8V/7344/index.m3u8
 http://defaultgen.com:3050/live/buttsmom3@gmail.com/2jBKrupeC6/508250.ts
 #EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 4" group-title="Sports", UK Sky Golf 4  
 http://fortv.cc:8080/live/54435673/54435673/35240.ts
+#EXTINF:-1 tvg-id="SkySp.Golf.uk" tvg-name="Sky Golf 5" group-title="Sports", UK Sky Golf 5  
+http://sapphireapp.xyz:8080/live/kyvsav2tYt/6676920103/47867.ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
 http://38.96.178.201:80/live/ESPNHD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Sports", ESPN  
